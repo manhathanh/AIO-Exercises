@@ -4,5 +4,11 @@ def factorial(n):
     x=x*i
   return x
 
+def multi(a,b):
+  return a*b
+
+
+
+
 if __name__=="__main__":
   print(f"factorial: {factorial(5)}")
