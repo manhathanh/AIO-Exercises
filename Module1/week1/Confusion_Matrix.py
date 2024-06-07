@@ -20,5 +20,6 @@ def matrix(tp,fp,fn):
       print(f"f1_score is {f1_score}")
 
 
-matrix(2,'b',7)
+a=matrix(2,3,5)
 
+print(a)
